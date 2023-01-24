@@ -8,6 +8,7 @@
 </br>
 Здесь мы получаем резюме
 </br>
+</br>
 <img width="863" alt="Снимок экрана 2023-01-24 в 21 30 14" src="https://user-images.githubusercontent.com/87113165/214337813-b3bbb556-3d60-4b15-8d73-47c650722e4e.png">
 </br>
 </br>
